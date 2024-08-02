@@ -1,4 +1,4 @@
-# crac-client
+# crac-client-web
 Client for connection to crac-server via gRPC
 
 # Pre-requisite
@@ -26,7 +26,7 @@ poetry install
 You can start the gui client with:
 
 ```
-cd crac_client
+cd crac_client_web
 python app.py
 ```
 
